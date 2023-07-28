@@ -1,0 +1,55 @@
+# Warcraft-II-Launcher
+
+Russian version: Концепция:
+Вар2Лаунчер должен быть фактически, универсальной единицей, персональным помощником для любого пользователя.
+0. Лаунчер должен уметь разворачиваться на полный экран, но при этом норм работать и в видео окна.
+1. Возможность устанавливать из лаунчера только выборочные вещи, что выбрал пользователь, с указанием пути куда.
+2. Возможность для ленивых юзеров или для сущих новичков - подготовить, версию по умолчанию, чтобы они могли ОДНИМ кликом себе установить эту "усреднённую версию".
+2.1. Возможно, стоит подумать, о различных "усреднённых версиях", так сказать, угодить на любой вкус. Хотя это уже очень мелкие мелочи...
+3. Стартовое окно, также, не должно быть слишком сложным для пользователя. Также, очень желательно, чтобы оно было красивым. Думаю, я смогу что-то с этим придумать. 
+
+Также, должно быть ДВЕ темы для стартового экрана (помимо упрощённой) - орковская и человеческя. Соответственно, все кнопки тоже должны будут соответствовать своей теме.
+*туда же, надо добавить выбор языка на стартовое окно.
+**должна играть оригинальная музыка (в зависимости от темы) 
+
+3.1. Наверху стартового окна, должны быть вкладки - чем их больше, тем больше тонкого функционала там будет.
+Первоначально, планируем добавить это(перечисляю вкладки):
+a. Играть (это та самая "стартовая вкладка"),
+b. Плагины,
+c. Подключение,
+d. Опции интерфейса (либо, можно назвать это "Предпочтения"),
+e. Конфигурация,
+f. Моддинг (это, главным образом, a1) реклама кастомных кампаний, b1) новости обновлений, c1) всякие новинки, d1) различные полезные программы для моддинга (пудрафт, юзенти, и т.д., потом подробнее опишу), и, конечно, e1) пополняющаяся "база" карт.
+Все эти вещи на этой вкладке, должны быть с картинками и всплывающим описанием).
+g. Реплеи (это должна быть база реплеев, конечно, под это хорошо было бы зарезервировать какое-то крутое облако на много террабайт (например, одни мои реплеи всего за 3 года - это почти 500 гигабайт!!!), каждый мог бы загружать свои инсайты или варвидео.
+Также, надо будет сделать спец-форму, для базы ссылок стримов/или просто видосов с того же ютуба. 
+4. Также, вероятно, можно подумать о программе "Обс Студио", т.к. многие часто её используют. Смысл в том, чтобы лаунчер мог помочь настроить первоначальные настройки, для стрима, например.
+
+-Будет обновляться-
+
+English version: Concept:
+War2Launcher should actually be a universal unit, a personal assistant for any user.
+0. The launcher should be able to expand to full screen, but it should also work in the video window.
+1. The ability to install from the launcher only selective things that the user has chosen, indicating the path where.
+2. Possibility for lazy users or real beginners - to prepare a default version so that they can install this "average version" with ONE click.
+2.1. Perhaps it is worth thinking about various "average versions", so to speak, to please every taste. Even though it's a very small thing...
+3. The start window should also not be too complicated for the user. Also, it is very desirable that it be beautiful. I think I can come up with something with this.
+
+Also, there should be TWO themes for the start screen (in addition to the simplified one) - orcish and human. Accordingly, all buttons will also have to match their theme.
+* there, you need to add the choice of language to the start window.
+**must play original music (depending on theme)
+
+3.1. At the top of the start window, there should be tabs - the more there are, the more subtle functionality there will be.
+Initially, we plan to add this (listing the tabs):
+a. Play (this is the same "start tab"),
+b. plugins,
+c. connection,
+d. Interface options (or, you can call it "Preferences"),
+e. Configuration,
+f. Modding (this is mainly a1) advertising custom campaigns, b1) update news, c1) all sorts of new items, d1) various useful programs for modding (pudraft, usenti, etc., I will describe in more detail later), and, of course, e1) replenishing "base" of cards.
+All these things on this tab should be with pictures and a pop-up description).
+g. Replays (this should be a database of replays, of course, it would be nice to reserve some cool cloud for many terabytes for this (for example, my replays in just 3 years are almost 500 gigabytes !!!), everyone could upload their insights or warvideo.
+Also, it will be necessary to make a special form for the link base of streams / or just vids from the same YouTube.
+4. Also, probably, you can think about the program "Obs Studio", because. a lot of people use it often. The point is that the launcher can help you set up the initial settings, for streaming, for example.
+
+-Will be updated-
