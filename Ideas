@@ -53,3 +53,10 @@ Also, it will be necessary to make a special form for the link base of streams /
 4. Also, probably, you can think about the program "Obs Studio", because. a lot of people use it often. The point is that the launcher can help you set up the initial settings, for streaming, for example.
 
 -Will be updated-
+
+
+
+ilwar2 — today at 01:31 Uhr
+One more idea about launcher:
+To add check for hole puncher if it works or not. To let user press “check” button or w/e and to let him get a popup about hole puncher failed or w/e. Any ideas how to do that?
+The idea is to let you definitely know you have problems with your connection and probably a link to page about what to do with that
