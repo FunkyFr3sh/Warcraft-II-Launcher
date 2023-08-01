@@ -1,0 +1,11 @@
+﻿69ad6fb0=Error: Доступ запрещен
+2f00bfce=Please check your permissions, Anti-Virus and Firewall settings!#+Would you like to restart the program with administrator rights to avoid errors?
+032ee746=Warcraft II Лаунчер
+de3c731b=Играть
+c72bb2ba=Warcraft II ХД
+dcbd1491=Широкий экран
+0a52da7a=Оригинальный
+bb38096a=Плагины
+e1f07b61=Опции интерфейса
+c2cc7082=Подключение
+02fd0aa8=Играть в Warcraft II

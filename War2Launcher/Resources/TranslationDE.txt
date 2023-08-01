@@ -1,0 +1,25 @@
+﻿69ad6fb0=Fehler: Zugriff verweigert
+02fd0aa8=deuch Play Warcraft II
+2f00bfce=Bitte überprüfen Sie Ihre Berechtigungen, Antivirus- und Firewall-Einstellungen!#+Möchten Sie das Programm mit Administratorrechten starten um Fehler zu vermeiden?
+ea478870=Abbrechen
+e0aa021e=OK
+6abd9463=Warcraft II Konfiguration
+fe4c6a5e=Erweiterte Einstellungen
+7a44a49f=Auf Vollbild skalieren
+61a6c254=Fenstermodus
+bef0da3e=Editor Auflösung
+d86a1181=Spiel Auflösung
+07b20ae9=Renderer
+dd821973=Anzeigemodus
+8a8e57b1=Vollbild
+b13311ab=Fenstermodus
+7e96ac57=Strecken
+086247a9=Automatisch
+8699548a=OpenGL Filter
+02c9ec48=Mausempfindlichkeit anpassen
+0a873c51=Seitenverhältnis beibehalten
+78f0192a=Borderless
+1ca9d54f=nearest: Sharp/Pixelated#+bilinear: Smooth/Blurry#+cubic: Smooth + better than bilinear, but slower#+crt-lottes-fast: Old school CRT Monitor effect#+scanline: Adds scanlines for a retro effect#+xbr-lv2: Smart (sharp) upscaling algorithm, requires a good GPU#+xbrz-freescale: Smart (sharp) upscaling algorithm, requires a good GPU
+181c33de=Fullscreen: Best performance, low input lag (except GDI) but slow Alt+Tab.#+Windowed: Runs the game in a window rather than going fullscreen.#+Stretched (=Fullscreen): Second best performance, low input lag and faster Alt+Tab than Fullscreen.#+Borderless (=Fullscreen): Worst performance but no tearing. Adds input lag but has fastest Alt+Tab.
+4b41d08d=Use GDI for "normal" fullscreen.#+Use OpenGL for windowed mode or upscaling.#+Use Direct3D 9 as alternative for OpenGL (For older hardware).#+Use DirectDraw for very old hardware (Win XP and below).
+445dc38b=Hardware-Cursor

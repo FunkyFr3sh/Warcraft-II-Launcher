@@ -1,0 +1,10 @@
+﻿69ad6fb0=Error: Access denied
+2f00bfce=Please check your permissions, Anti-Virus and Firewall settings!#+Would you like to restart the program with administrator rights to avoid errors?
+032ee746=Warcraft II Launcher
+de3c731b=Play
+c72bb2ba=Warcraft II HD
+dcbd1491=Wide Screen
+0a52da7a=Original
+bb38096a=Plugins
+e1f07b61=Interface Options
+c2cc7082=Connection
