@@ -83,6 +83,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\checkbox-normal-selected.png" />
+    <Content Include="Resources\checkbox-normal-unselected.png" />
+    <None Include="Resources\checkbox-pressed-selected.png" />
+    <None Include="Resources\checkbox-pressed-unselected.png" />
+    <Content Include="Resources\radio-normal-selected.png" />
+    <Content Include="Resources\radio-normal-unselected.png" />
     <Content Include="Resources\TranslationDE.txt" />
     <Content Include="Resources\TranslationEN.txt" />
     <Content Include="Resources\TranslationRU.txt" />

@@ -117,4 +117,27 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="checkBox3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAABGdBTUEAALGPC/xhBQAAASNJREFUOE+V
+        lCF2wkAQQFcgEAgEAlGBQCAiEBUVFYgKRAUSUVGBQEQiIisROQCyoqJHqOhBIjlE/Xb/hEmHTUhS8d8k
+        +2b+zObtxiVT59vYLId++zCSuE4G1ftuNamiSB7nA++c+zcIs+1dKYGiKISf86yT74+J/8zHIqpJ4k5t
+        qOTtdf4noQOLh8BL4OkSm57JO2UjiXm6aJaQmAS0KIa8427YLbHY6ZBbSeN2SNYpKIb3wJd57yWhI/EY
+        0EKF9ZrkfnYtoZDORJWoWOmU6OgqUokVWYl8WE5rPIndfyyJP6wcNu4D06iEIjtBLNFJsk15Va4kHGUW
+        +7JflVEkXCIkHGPgJDLqLZgAQU0CtktfqlvMdvS/kD5PZRHankHz83ThfwG7ULRnUETPQgAAAABJRU5E
+        rkJggg==
+</value>
+  </data>
+  <data name="checkBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAABGdBTUEAALGPC/xhBQAAASNJREFUOE+V
+        lCF2wkAQQFcgEAgEAlGBQCAiEBUVFYgKRAUSUVGBQEQiIisROQCyoqJHqOhBIjlE/Xb/hEmHTUhS8d8k
+        +2b+zObtxiVT59vYLId++zCSuE4G1ftuNamiSB7nA++c+zcIs+1dKYGiKISf86yT74+J/8zHIqpJ4k5t
+        qOTtdf4noQOLh8BL4OkSm57JO2UjiXm6aJaQmAS0KIa8427YLbHY6ZBbSeN2SNYpKIb3wJd57yWhI/EY
+        0EKF9ZrkfnYtoZDORJWoWOmU6OgqUokVWYl8WE5rPIndfyyJP6wcNu4D06iEIjtBLNFJsk15Va4kHGUW
+        +7JflVEkXCIkHGPgJDLqLZgAQU0CtktfqlvMdvS/kD5PZRHankHz83ThfwG7ULRnUETPQgAAAABJRU5E
+        rkJggg==
+</value>
+  </data>
 </root>
